@@ -2,7 +2,7 @@
 > 1st version - Prelimary
 
 ### History
-> This was used for prilimary for a competition held by ITE and was one 3rd place
+> This was used for prilimary for a competition held by ITE and was got 3rd place in 2022
 
 ## To open/modify this repo
 1. open https://makecode.microbit.org/
